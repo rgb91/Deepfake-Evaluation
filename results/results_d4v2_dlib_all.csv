@@ -1,0 +1,12 @@
+d3,deepfacelab,hanwei,511.74666666666667
+d3,fom,hanwei,342.8933333333333
+d4v2_dfl_exp1,obama_2m,obama_sixty,119.65212649945474
+d4v2_dfl_exp1,obama_3m,obama_sixty,130.1701199563795
+d4v2_dfl_exp1,obama_many2many,obama_sixty,93.60441657579062
+d4v2_dfl_exp2,obama_200,obama_wage,66.92326887086712
+d4v2_dfl_exp2,biden_200,biden,121.25046869141357
+d4v2_dfl_exp3,obama_da,obama_wage,83.73830318153462
+d4v2_dfl_exp3,biden_da,biden,133.771567891973
+d4v2_fom,obama_sixty_fom,obama_sixty,189.37513631406762
+d4v2_fom,obama_wage_fom,obama_wage,99.96132252027448
+d4v2_fom,biden_fom,biden,154.6115903975994
